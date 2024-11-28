@@ -2,24 +2,24 @@
 社課練習
 # DSM 1121
 
-## Overview
-This project focuses on the analysis of the Iris dataset using classic data analysis techniques. It highlights the implementation of the **K-Nearest Neighbors (KNN)** algorithm for classification and demonstrates data visualization techniques.
+## 概述
+本项目重点分析鳶尾花 (Iris) 数据集，使用经典数据分析技术，展示了 **K-邻近分类算法 (KNN)** 的应用，并通过数据可视化来探索数据特征。
 
-## Topics Covered
-1. **Dataset Overview**: Introduction to the Iris dataset.
-2. **Data Collection**:
-   - Usage of Kaggle datasets as a source for high-quality data.
-   - Instructions on how to retrieve datasets from Kaggle using Python.
-3. **Data Visualization**: Visual techniques to understand and interpret the dataset.
-4. **KNN Algorithm**: Step-by-step implementation and explanation of the K-Nearest Neighbors classification algorithm.
+## 涵盖内容
+1. **数据集概览**：介绍 Iris 数据集。
+2. **数据获取**：
+   - 使用 Kaggle 提供的高质量数据集。
+   - 教您如何通过 Python 从 Kaggle 获取数据集。
+3. **数据可视化**：通过图表理解和解释数据。
+4. **KNN 算法**：逐步实现 K-邻近分类算法并进行详细讲解。
 
-## Future Topics
-The project roadmap includes the following themes for the semester:
-- **Titanic Survival Prediction** (November 28)
-- **Boston Housing Price Prediction** (December 5)
-- **Drug and Alcohol Interaction Dataset** (December 12)
+## 后续主题
+本学期还将探讨以下主题：
+- **铁达尼号生存预测** (11月28日)
+- **波士顿房价预测** (12月5日)
+- **药物与酒精作用数据集** (12月12日)
 
-## Getting Started
-1. Install the required Python libraries:
+## 快速开始
+1. 安装所需的 Python 库：
    ```bash
    pip install pandas matplotlib scikit-learn
